@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "Timer",
-    "slug": "Timer",
+    "name": "TimerX",
+    "slug": "TimerX",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./timer_icon.jpg",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./timer_icon.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,7 +16,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./timer_icon.jpg",
         "backgroundColor": "#ffffff"
       }
     },
